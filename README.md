@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chathuranga.K 👋
 
 I'm a passionate **Student & Aspiring Web Developer** focused on building my skills and working toward real-world projects.
 
@@ -25,8 +25,8 @@ I'm a passionate **Student & Aspiring Web Developer** focused on building my ski
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chathuranga-K&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuranga-K&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I'm a passionate **Student & Aspiring Web Developer** focused on building my ski
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chathuranga-K.chathuranga-K" />
 </p>
 
 ---
