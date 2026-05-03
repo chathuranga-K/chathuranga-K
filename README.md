@@ -25,7 +25,7 @@ I'm a passionate **Undergraduate Student & Aspiring Web Developer** focused on b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathuranga-K&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=chathuranga-K&show_icons=true&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=Albert-D&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuranga-K&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
