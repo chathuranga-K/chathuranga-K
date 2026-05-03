@@ -30,8 +30,6 @@ I'm a passionate **Undergraduate Student & Aspiring Web Developer** focused on b
 
 ---
 
-## 👀 Visitor Count
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chathuranga-K.chathuranga-K" />
 </p>
