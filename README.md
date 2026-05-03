@@ -24,7 +24,7 @@ I'm a passionate **Undergraduate Student & Aspiring Web Developer** focused on b
 
 ## Connect with me
 
-<a href="[www.youtube.com/@ChathurangK](https://youtube.com/@chathurangk?si=90vThpkIp6nOI2cv)" target="_blank">
+<a href="https://www.youtube.com/@chathurangk" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
