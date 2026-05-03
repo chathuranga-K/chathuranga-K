@@ -1,6 +1,6 @@
 # Hi there, I'm Chathuranga.K 👋
 
-I'm a passionate **Student & Aspiring Web Developer** focused on building my skills and working toward real-world projects.
+I'm a passionate **Undergraduate Student & Aspiring Web Developer** focused on building my skills and working toward real-world projects.
 
 ---
 
